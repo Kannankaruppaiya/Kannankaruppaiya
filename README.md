@@ -1,4 +1,4 @@
-﻿### Hi there ðŸ‘‹ I'm Kannan
+### Hi there 👋 I'm Kannan
 
 <!-- Metrics are generated daily by .github/workflows/metrics.yml -->
 <p align="center">
