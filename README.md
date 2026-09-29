@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Kannan
+﻿### Hi there ðŸ‘‹ I'm Kannan
 
 <!-- Metrics are generated daily by .github/workflows/metrics.yml -->
 <p align="center">
-  <img src="metrics.svg" alt="Kannan's GitHub metrics" />
+  <img src="github-metrics.svg" alt="Kannan's GitHub metrics" />
 </p>
